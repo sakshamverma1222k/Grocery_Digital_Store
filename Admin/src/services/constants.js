@@ -1,0 +1,10 @@
+// export const BASE_URL = 'http://www.triosmarts.com';
+// export const BASE_URL = 'http://api.ldttechnology.com'
+// export const BASE_URL_user = 'http://54.86.127.53:3002'
+// export const BASE_URL_user = 'http://54.86.127.53:3002'
+export const BASE_URL_user = 'http://localhost:3002'
+// export const BASE_URL_catalog = 'http://54.86.127.53:3001'
+export const BASE_URL_catalog = 'http://localhost:3001'
+// export const BASE_URL = 'http://54.86.127.53'
+export const WHITE = '#FFFFFF';
+export const CDN_URL = 'http://ldttechnology.com/cdn/';
